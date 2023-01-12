@@ -8,7 +8,7 @@ Can you guess a poem or a novel just by looking at most frequent words in it? Or
 A *Word Cloud* is an image that's made up of different sized words. Usually the sizes of the words are determined by how many times each word appears in a specific text.
 
 ### Goal of the project
-To create a Word Cloud of the most frequently used words in given text.
+To create a Word Cloud of the most frequently used words in a given text.
 
 ### Data
 [Wuthering Heights by Emily Brontë](https://www.gutenberg.org/files/768/768-0.txt) available as part of [Project Gutenberg](https://www.gutenberg.org)
