@@ -21,4 +21,4 @@ In this project following libraries are used:
 * **Word cloud vizualization:** matplotlib 
 
 ### Installation:
-You shouldn't really install this code, just click on the "Word_Cloud.ipynb" file and in the follow window click on "Open in Colab" button. This will redirect you on [Colab](colab.research.google.com) by Google website.
+You shouldn't really install this code, just click on the "WordCloud.ipynb" file and in the follow window click on "Open in Colab" button. This will redirect you on [Colab](colab.research.google.com) by Google website.
