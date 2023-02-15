@@ -1,7 +1,7 @@
 ## Word Cloud
 
 ### Description 
-This notebook is created as a part of **Crush course on Python** by Google and supposed to create a Word Cloud based on frequency of words appearance in the text on website.
+This project is created as a part of **Crush course on Python** by Google and supposed to create a Word Cloud based on frequency of words appearance in the text on website.
 
 ### Objectives
 Can you guess a poem or a novel just by looking at most frequent words in it? Or maybe its genre at least? Let's give it a try!
